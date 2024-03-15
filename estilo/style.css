@@ -65,9 +65,14 @@ nav a:hover {
     color: var(--cor5);
 }
 
-#empresa{
-    width: 100%;
+div{
+    
+    padding: 100px;
+    background-image: url('../imagens/empresa.png');
+    background-size: cover;
+    
 }
+
 main{
     font-family: "Open Sans", sans-serif;
     background-color: var(--cor0);
@@ -91,7 +96,10 @@ main h1, h2{
 }
 
 p{
+    font-family: "Open Sans", sans-serif;
     text-align: justify;
+    font-size: 1.2em;
+    line-height: 2em;
 }
 
 footer p{
