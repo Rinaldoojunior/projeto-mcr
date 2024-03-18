@@ -14,6 +14,10 @@
     --cor5: #177714;         
 }
 
+#cabeçalho{
+    float: left;
+}
+
 header{
     background-image: linear-gradient(to bottom, var(--cor0), var(--cor2));
     padding-top: 10px;
