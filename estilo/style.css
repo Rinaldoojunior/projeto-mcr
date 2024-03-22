@@ -74,16 +74,6 @@ div#mcr{
     background-size: cover;
 }
 
-div#contato{
-    margin-top: 20px;
-    padding: 100px;
-    background-image: url('../imagens/contatos.png');
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-
-}
-
 main{
     font-family: "Open Sans", sans-serif;
     background-color: var(--cor0);
@@ -115,6 +105,15 @@ p{
     text-align: justify;
     font-size: 1.2em;
     line-height: 2em;
+}
+
+iframe{
+    display: block;
+    margin: auto;
+}
+
+.contato{
+    text-align: center;
 }
 
 footer p{
