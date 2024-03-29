@@ -14,6 +14,11 @@
     --cor5: #177714;         
 }
 
+body{
+    background-image: url('../imagens/escritorio.png');
+    background-attachment: fixed;
+}
+
 #cabeçalho{
     float: left;
 }
