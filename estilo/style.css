@@ -19,8 +19,9 @@ body{
     background-attachment: fixed;
 }
 
-#cabeçalho{
+#fotologo{
     float: left;
+    margin-left: 30px;
 }
 
 header{
@@ -98,17 +99,16 @@ main h1, h2{
     background-image: linear-gradient(to right, var(--cor1), transparent);
     font-weight: normal;
     font-family: "Open Sans", sans-serif;
-    font-size: 2em;
+    font-size: 1.5em;
 }
 
 ul{
     font-family: "Open Sans", sans-serif;
 }
 
-p{
+main p{
     font-family: "Open Sans", sans-serif;
     text-align: justify;
-    font-size: 1.2em;
     line-height: 2em;
 }
 

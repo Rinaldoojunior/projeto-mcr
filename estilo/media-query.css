@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+@media screen and (max-width:769px) {
+    header h1{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 2em;
+    }
+
+    #fotologo{
+        float: left;
+        margin-left: 20px;
+    }
+
+    header p{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 1em;
+        text-shadow: none;
+    }
+    
+}
